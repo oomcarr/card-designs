@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+@import './tw-card.css';
+
+*{
+  /* border: 1px solid black; */
+}
