@@ -52,13 +52,17 @@ header{
     padding-left: 5em;
     word-spacing: 0.2em;
     font-size: 0.9em;
-    cursor: pointer;
+    
 }
 
 .section-item{
-    
     margin: 0.7em;
     font-weight:600;
+}
+
+.section-item:hover{
+    color: #ff3f6c;
+    cursor: pointer;
 }
 
 .search-bar{
